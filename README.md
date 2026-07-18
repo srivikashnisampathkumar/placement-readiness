@@ -30,11 +30,11 @@ A fully transparent, GitHub-driven leaderboard and submission portal. No databas
 | 6 | Shanmugappriya K | 25mx223 | 48 | 2/2 (100%) |
 | 7 | Dayananda J | 25mx308 | 48 | 2/2 (100%) |
 | 8 | Tino Britty J | 25mx354 | 46 | 2/2 (100%) |
-| 9 | Bhuvisha Priya | 25mx305 | 45 | 2/2 (100%) |
-| 10 | Induja E | 25mx315 | 43 | 2/2 (100%) |
+| 9 | SHRI SANJAY M | 25mx345 | 46 | 2/2 (100%) |
+| 10 | Bhuvisha Priya | 25mx305 | 45 | 2/2 (100%) |
 
 **🏆 Top Team:** Team 6 (avg: 10.9 pts)
-**Today's submissions:** 20/123 students submitted on 2026-07-17 · **Last updated:** 2026-07-18
+**Today's submissions:** 21/123 students submitted on 2026-07-17 · **Last updated:** 2026-07-18
 <!-- LEADERBOARD:END -->
 
 ---

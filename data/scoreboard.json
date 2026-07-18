@@ -11480,21 +11480,21 @@
     "manualAdjustments": null
   },
   "25mx345": {
-    "total": 0,
+    "total": 46,
     "byDay": {
       "2026-07-16": {
-        "submitted": 0,
-        "quality": 0,
-        "reflection": 0,
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
         "prompting": 0,
-        "documentation": 0
+        "documentation": 3
       },
       "2026-07-17": {
-        "submitted": 0,
-        "quality": 0,
-        "reflection": 0,
+        "submitted": 10,
+        "quality": 5,
+        "reflection": 5,
         "prompting": 0,
-        "documentation": 0
+        "documentation": 3
       },
       "2026-07-20": {
         "submitted": 0,

@@ -1,0 +1,50 @@
+{
+  "title": "Employee Questionnaire",
+  "fields": [
+    {
+      "id": "personal",
+      "type": "group",
+      "label": "Personal Information",
+      "children": [
+        {
+          "id": "name",
+          "type": "text",
+          "label": "Full Name",
+          "required": true
+        },
+        {
+          "id": "age",
+          "type": "number",
+          "label": "Age",
+          "required": true,
+          "validation": {
+            "min": 18,
+            "message": "Age must be at least 18"
+          }
+        }
+      ]
+    },
+    {
+      "id": "employment",
+      "type": "group",
+      "label": "Employment",
+      "children": [
+        {
+          "id": "employed",
+          "type": "checkbox",
+          "label": "Currently Employed?"
+        },
+        {
+          "id": "company",
+          "type": "text",
+          "label": "Company Name",
+          "required": true,
+          "showIf": {
+            "field": "employed",
+            "equals": true
+          }
+        }
+      ]
+    }
+  ]
+}
